@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="email-signature/card.png" width="720" alt="Angie Wilkinson, Founder, Researcher and Developer, SynHumanity Labs">
-</p>
+<!-- Cover photo spot -->
 
 <p align="center">
   <a href="https://synomize.io">synomize.io</a> ·
